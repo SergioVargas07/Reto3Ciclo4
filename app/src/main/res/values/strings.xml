@@ -25,5 +25,6 @@
     <!--    acciones para agregar al menu de los tres puntos-->
     <string name="action_contactenos">Contactenos</string>
     <string name="action_cerrar">Cerrar</string>
+    <string name="title_activity_form_maps">FormMapsActivity</string>
 
 </resources>

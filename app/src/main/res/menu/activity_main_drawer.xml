@@ -20,9 +20,6 @@
             android:id="@+id/nav_sucursales"
             android:icon="@drawable/ic_baseline_local_post_office_24"
             android:title="@string/menu_sucursales" />
-        <item
-            android:id="@+id/nav_nuevo"
-            android:icon="@drawable/ic_menu_slideshow"
-            android:title="@string/menu_sucursales" />
+
     </group>
 </menu>
